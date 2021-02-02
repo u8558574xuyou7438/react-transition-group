@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "dom-helpers": "^5.0.1",
+    "dom-helpers": "^5.2.0",
     "loose-envify": "^1.4.0",
     "prop-types": "^15.6.2"
   },
