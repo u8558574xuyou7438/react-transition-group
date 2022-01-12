@@ -60,7 +60,7 @@
     "@babel/runtime": "^7.5.5",
     "dom-helpers": "^5.0.1",
     "loose-envify": "^1.4.0",
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.8.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
